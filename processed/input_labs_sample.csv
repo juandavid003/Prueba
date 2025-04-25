@@ -1,0 +1,7 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,1001,Hemoglobina,13.5,2024-04-20
+1,1002,Glucosa,95,2024-04-20
+2,1003,Colesterol,210,2024-04-21
+2,1004,Hemoglobina,14.2,2024-04-21
+3,1005,Glucosa,105,2024-04-22
+3,1006,Colesterol,230,2024-04-22
